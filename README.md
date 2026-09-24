@@ -1,5 +1,7 @@
 # Assignment 2 — Algorithmic Analysis, Correctness and Performance Trade-offs
 
+Author: student submission for Lecture 3 (Asymptotic Analysis and Algorithmic Correctness).
+
 ## 1. Overview
 
 This project implements and analyzes three data structures written from scratch in Java:
